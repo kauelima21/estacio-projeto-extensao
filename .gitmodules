@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:kauelima21/food-control-web-app.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:kauelima21/food-control-mobile-app.git
+[submodule "serverless-api"]
+	path = serverless-api
+	url = git@github.com:kauelima21/food-control-serverless-api.git
